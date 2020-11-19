@@ -1,10 +1,12 @@
-package com.mycompany.app;
+package src.test.java.com.mycompany.app.aufgabe3;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import src.main.java.com.mycompany.app.Aufgabe3.Calculator;
 
 public class CalculatorTest {
     Calculator calc;
