@@ -1,4 +1,4 @@
-package src.main.java.com.mycompany.app.Aufgabe3;
+package com.mycompany.app.Aufgabe3;
 
 public interface ICalculator {
 
