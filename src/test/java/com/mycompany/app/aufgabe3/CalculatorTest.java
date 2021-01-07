@@ -32,7 +32,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void ngeativeSubtraction() {
+    public void negativeSubtraction() {
         assertEquals(1, calc.subtraction(-1, -2));
     }
 
