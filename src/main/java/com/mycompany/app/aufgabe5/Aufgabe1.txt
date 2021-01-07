@@ -1,0 +1,4 @@
+Display display = mock(Display.class);
+TimeProvider timeProvider = mock(TimeProvider.class);
+when(timeProvider.time()).thenReturn('8');
+verify(display, times(1)).show();
